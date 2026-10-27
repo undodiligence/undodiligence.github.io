@@ -3993,7 +3993,7 @@ return ret;
         </div>
         <div class="panel upsell">
           <h3>Unlimited drills, every day</h3>
-          <p class="small" style="margin:6px 0 12px">Founding members get a new real-life project every week, endless generated drills and printable packs. Joining is free: nothing is for sale yet.</p>
+          <p class="small" style="margin:6px 0 12px">Founding members get more real-life projects like this, endless generated drills and printable packs. Joining is free: nothing is for sale yet.</p>
           <button class="btn gold-outline" data-upgrade="drill-panel" style="width:100%">Become a founding member</button>
         </div>
       </aside>
@@ -4052,7 +4052,7 @@ return ret;
       <div class="price">Free<small> to join. No card, nothing for sale yet</small></div>
       <ul class="ticks">
         <li>A fresh generated drill every day, at the level you choose, plus endless practice</li>
-        <li>A new real-life, printable project every week</li>
+        <li>More real-life, printable projects like the pot and the phone stand</li>
         <li>Printable PDF packs for classes and clubs</li>
         <li>Works with FreeCAD, Onshape, Fusion and SOLIDWORKS</li>
       </ul>
@@ -4105,8 +4105,8 @@ return ret;
           <p class="small" style="margin:10px 0 0">Your slicer's filament estimate will be lower than the solid weight if you print with less than 100% infill.</p>
         </div>
         <div class="panel upsell">
-          <h3>A new real-life project every week</h3>
-          <p class="small" style="margin:6px 0 12px">Founding members get a new printable project each week, plus endless generated drills. Joining is free: nothing is for sale yet.</p>
+          <h3>Want more projects like this?</h3>
+          <p class="small" style="margin:6px 0 12px">Founding members get more printable projects like this one, plus endless generated drills. Joining is free: nothing is for sale yet.</p>
           <button class="btn gold-outline" data-upgrade="real-panel" style="width:100%">Become a founding member</button>
         </div>
       </aside>
